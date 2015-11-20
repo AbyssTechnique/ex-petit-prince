@@ -1,0 +1,30 @@
+body{
+  padding-top: 70px;
+  background-color: #7EA3BF;
+}
+h2{
+  padding-top: 70px;
+}
+h1, h3, h2{
+  text-align: center;
+}
+.part{
+  border: black 2px solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: #fff;
+  padding-top: 5px;
+}
+.image{
+ width: 50%;
+ margin-left: 25%;
+}
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-shadow: 2px 2px black;
+}
+h2, h3{
+  color: black;
+}
